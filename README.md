@@ -1,10 +1,10 @@
-# BENNNZO / README.md
+# Naqib / README.md
 
 <div align="center">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://github.com/iamnotshane/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/MY_PORTFOLIO-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://yourproject.com" target="_blank">
+  <a href="https://github.com/iamnotshane/Aichatbot-and-Humanizer" target="_blank">
     <img src="https://img.shields.io/badge/TEXT_HUMANIZER-00B4D8?style=for-the-badge&logo=app&logoColor=white" alt="Text Humanizer" />
   </a>
 </div>
@@ -30,8 +30,17 @@
   <div style="margin-top:40px;">
     <h2 style="color:#00B4D8;">SHOWCASE - TEXT HUMANIZER</h2>
     <div style="background-color:#112240; padding:10px; border-radius:8px; margin-top:20px;">
-      <p>Text Humanizer Front-end • Python Application • AI-Powered Text Conversion</p>
-      <img src="https://your-screenshot-url.png" alt="Text Humanizer Screenshot" style="width:100%; border-radius:8px; margin-top:10px;" />
+      <p>Python Application • AI-Powered Text Conversion • Custom UI</p>
+      
+      <!-- 
+      To add your screenshot:
+      1. Upload the Text Humanizer screenshot to your repository (in an "assets" folder)
+      2. Replace the path below with the actual path to your image
+      Example: "https://raw.githubusercontent.com/iamnotshane/iamnotshane/main/assets/text-humanizer-screenshot.png"
+      -->
+      <img src="./assets/text-humanizer-screenshot.png" alt="Text Humanizer Screenshot" style="width:100%; border-radius:8px; margin-top:10px;" />
+      
+      <p>Text Humanizer transforms academic content into more accessible language with customizable tone and purpose settings.</p>
     </div>
   </div>
 </div>
@@ -46,7 +55,7 @@
 <div style="margin-top:40px;">
   <h2 style="color:#00B4D8;">ABOUT ME</h2>
   <p>
-    Python developer with a passion for creating useful applications. Currently focused on AI-powered tools and text processing applications. Looking to collaborate on open-source projects and expand my skills in machine learning and UI design.
+    Python developer with a passion for creating useful applications. Currently focused on AI-powered tools like the Text Humanizer that transforms complex text into more readable formats. Looking to collaborate on open-source projects and expand my skills in machine learning and UI design.
   </p>
 </div>
 
