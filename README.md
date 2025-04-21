@@ -1,23 +1,34 @@
-<img src="https://avatars.githubusercontent.com/u/193313848?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
+<h2 align="left">Hi 👋! My name is Naqib Ahmed</h2>
 
-# Naqib Ahmed
-### Still learning 
+###
 
-Passionate software engineer with expertise in Python and Tkinter
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnotshane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=iamnotshane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotshane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🛠️ **Tech Stack**
-- Intermediate: `Python` `Tkinter`
+###
 
-🔭 **Featured Projects**
-- [Aichatbot and Humanizer](https://github.com/iamnotshane/Aichatbot-and-Humanizer) - ur study partner
-- [Image detection](https://github.com/iamnotshane/image) - detect images
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnotshane&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnotshane&theme=dark" alt="GitHub Streak" />
-</p>
+###
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/iamnotshane)
-- [Email](mailto:naqiba822@gmail.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iamnotshane/iamnotshane/output/snake.svg" alt="Snake animation" />
+
+###
