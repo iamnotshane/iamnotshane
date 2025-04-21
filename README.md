@@ -34,15 +34,27 @@
       
       <!-- 
       To add your screenshot:
-      1. Upload the Text Humanizer screenshot to your repository (in an "assets" folder)
-      2. Replace the path below with the actual path to your image
-      Example: "https://raw.githubusercontent.com/iamnotshane/iamnotshane/main/assets/text-humanizer-screenshot.png"
+      1. Save the Text Humanizer screenshot from your message
+      2. Create an "assets" folder in your repository
+      3. Upload the image to that folder
+      4. Make sure the path below points to your image
       -->
       <img src="./assets/text-humanizer-screenshot.png" alt="Text Humanizer Screenshot" style="width:100%; border-radius:8px; margin-top:10px;" />
       
-      <p>Text Humanizer transforms academic content into more accessible language with customizable tone and purpose settings.</p>
+      <p>Text Humanizer transforms academic writing into more accessible language. Users can select tone (academic) and purpose (article), with options like "Beast Mode" for optimal results. The example shows conversion of an anime description from formal academic text to simplified language.</p>
     </div>
   </div>
+</div>
+
+<!-- Project Details Section -->
+<div style="margin-top:40px;">
+  <h2 style="color:#00B4D8;">PROJECT DETAILS</h2>
+  <ul>
+    <li><strong>Text Humanizer:</strong> A Python application that simplifies complex text</li>
+    <li><strong>Features:</strong> Customizable tone settings, purpose selection, and "Beast Mode" for optimal results</li>
+    <li><strong>Technology:</strong> Built with Python and Tkinter for the UI, leveraging AI for text transformation</li>
+    <li><strong>Use Case:</strong> Perfect for students, content creators, and anyone looking to make academic content more accessible</li>
+  </ul>
 </div>
 
 <!-- GitHub Stats Section -->
@@ -55,7 +67,7 @@
 <div style="margin-top:40px;">
   <h2 style="color:#00B4D8;">ABOUT ME</h2>
   <p>
-    Python developer with a passion for creating useful applications. Currently focused on AI-powered tools like the Text Humanizer that transforms complex text into more readable formats. Looking to collaborate on open-source projects and expand my skills in machine learning and UI design.
+    Python developer focusing on AI-powered applications. I'm passionate about creating tools that make content more accessible, like my Text Humanizer project that transforms complex academic text into easier-to-understand language. Currently exploring more applications of AI in everyday tools and looking to collaborate on innovative projects.
   </p>
 </div>
 
