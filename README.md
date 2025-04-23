@@ -33,7 +33,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hello! 👋 I'm Naqib, a Developer passionate about creating intuitive applications with a focus on AI and user experience. My journey in coding has led me to develop tools that simplify complex tasks and make technology more accessible.
+  Hello! 👋 I'm Naqib, an Aspiring Developer passionate about creating intuitive applications with a focus on AI and user experience. My journey in coding has led me to develop tools that simplify complex tasks and make technology more accessible.
 </p>
 
 <p align="center">
