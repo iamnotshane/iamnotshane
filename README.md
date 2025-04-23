@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E4405F&height=200&section=header&text=Naqib%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="GitHub Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E4405F&height=200&section=header&text=Naqib%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="GitHub Profile Banner" />
 </div>
 
 ###
