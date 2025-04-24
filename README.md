@@ -104,7 +104,6 @@
 </div>
 
 ###
-<br clear="both">
 <img src="https://raw.githubusercontent.com/iamnotshane/iamnotshane/output/snake.svg" alt="Snake animation" />
 
 
