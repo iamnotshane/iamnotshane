@@ -22,6 +22,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img src="https://img.shields.io/badge/Tkinter-E4405F?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
   <img src="https://img.shields.io/badge/Git-E4405F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-E4405F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
