@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Naqib Ahmed</h2>
+<h2 align="left">Hi 👋! My name is Naqib </h2>
 
 <!-- Header Banner -->
 <div align="center">
