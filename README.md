@@ -159,7 +159,7 @@ Currently Loading:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px">&nbsp; **CURRENT STATUS**
 
 ```bash
-Customer Service & Social Media Manager @ Ryne.AI
+Customer Service & Social Media Manager (2022-2023) | Content Lead (2024-present) @ Ryne.AI
 Location: Working remotely from Bangladesh 🇧🇩
 Available for collaboration and entry-level dev roles And Creative Writing roles
 
@@ -171,7 +171,7 @@ $ cat current_mission.txt
 [◯] Landing first software engineering role
 
 $ uptime
-Learning:        24/7 since 2023  
+Learning:        24/7 since 2022 
 Passion Level:   💯 OVERDRIVE  
 Coffee Level:    ☕☕☕ HIGH  
 Debug Skills:    🚧 Actively leveling up  
