@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Naqib+Ahmed;AI+Writer+%7C+Content+Lead;Creative+Technologist+%7C+Future+Dev" alt="Typing Intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Naqib+Ahmed;Ryne+AI+%7C+Content+Lead;Creative+Technologist+%7C+Future+Dev" alt="Typing Intro"/>
 
 </div>
 
