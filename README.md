@@ -16,7 +16,7 @@
 ║     Crafting Code with Intent. Building Digital Dreams.    ║
 ╚════════════════════════════════════════════════════════════╝
 ```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;Software+Engineer+%7C+Tech+Enthusiast;%3E+cat+skills.txt;Full+Stack+%2B+Cloud+%2B+AI%2FML+LLM;%3E+echo+%24MISSION;Building+tomorrow's+technology+today;%3E+_+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;Software+Engineer+%7C+Tech+Enthusiast;%3E+cat+skills.txt;Full+Stack+%2B+Cloud+%2B+AI%2FML+%2BLLM;%3E+echo+%24MISSION;Building+tomorrow's+technology+today;%3E+_+" alt="Typing SVG" />
 
 </div>
 
