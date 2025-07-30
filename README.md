@@ -35,7 +35,7 @@
 
 <p align="center">
   <strong>🚀 Currently Learning:</strong> Javascript <br/>
-  <strong>🌐 Role:</strong> Social Media Manager & AI Writer @ <a href="https://ryne.ai" target="_blank">Ryne.AI</a> 🇦🇺<br/>
+  <strong>🌐 Role:</strong> Content Lead @ <a href="https://ryne.ai" target="_blank">Ryne.AI</a> 🇦🇺<br/>
   <strong>💻 Stack:</strong> Python · HTML · CSS · JavaScript · Git <br/>
   <strong>🌱 Learning:</strong> React · Node.js · JavaScript · Full-Stack <br/>
   <strong>🪄 Fun Fact:</strong> Tech wasn’t the dream — but it became the obsession.
