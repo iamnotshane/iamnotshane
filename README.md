@@ -1,66 +1,5 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hi I am**
-
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║          ███╗   ██╗ █████╗  ██╗  ██╗██╗██████╗             ║
-║          ████╗  ██║██╔══██╗ ██║ ██╔╝██║██╔══██╗            ║
-║          ██╔██╗ ██║███████║ █████╔╝ ██║██████╔╝            ║
-║          ██║╚██╗██║██╔══██║ ██╔═██╗ ██║██╔══██╗            ║
- ║          ██║ ╚████║██║  ██║ ██║ ╚██╗██║██████╔╝            ║ 
-║          ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═╝  ╚═╝╚═╝╚═════╝             ║
-║                                                            ║
-║           SOFTWARE ENGINEER | PROBLEM SOLVER               ║
-║                                                            ║
-║     Crafting Code with Intent. Building Digital Dreams.    ║
-╚════════════════════════════════════════════════════════════╝
-```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;Software+Engineer+%7C+Tech+Enthusiast;%3E+cat+skills.txt;Full+Stack+%2B+Cloud+%2B+AI%2FML+%2B+LLM;%3E+echo+%24MISSION;Building+tomorrow's+technology+today;%3E+_+" alt="Typing SVG" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **ABOUT ME**
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Naqib+Ahmed;Ryne+AI+%7C+Content+Lead;Creative+Technologist+%7C+Future+Dev" alt="Typing Intro"/>
-
-</div>
-
----
-
-<p align="center">
-  <strong>🚀 Currently Learning:</strong> Javascript <br/>
-  <strong>🌐 Role:</strong> Content Lead @ <a href="https://ryne.ai" target="_blank">Ryne.AI</a> 🇦🇺<br/>
-  <strong>💻 Stack:</strong> Python · HTML · CSS · JavaScript · Git <br/>
-  <strong>🌱 Learning:</strong> React · Node.js · JavaScript · Full-Stack <br/>
-  <strong>🪄 Fun Fact:</strong> Tech wasn’t the dream — but it became the obsession.
-</p>
-
----
-
-<div align="center">
-  <blockquote>
-    <em>“Every bug is just an undiscovered feature waiting to be understood.”</em>
-  </blockquote>
-</div>
-
-
-<div align="center">
-
-### 🌟 **THE JOURNEY**
-```
-[2023] Friends → Software Engineering → Curiosity Sparked
-[2024] Logic + Creativity + Building = Love ❤️
-[2025] Every Project = Growth Opportunity
-[NOW]  Ready to Build the Future
-```
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">&nbsp; **TECH ARSENAL**
@@ -69,11 +8,11 @@
 
 ```yaml
 Frontend:
-  - HTML5         ████████░░ 85%
-  - CSS3          ██░░░░░░░░ 20%
+  - HTML5         ██████████ 100%
+  - CSS3          ██████████ 100%
   
 Backend:
-  - Python        █████████░ 90%
+  - Python        ██████████ 100%
   - Flask         ░░░░░░░░░░  0%
   
 Tools:
@@ -160,8 +99,6 @@ Currently Loading:
 ```bash
 Customer Service & Social Media Manager (2022-2023) | Content Lead (2024-present) @ Ryne.AI
 Location: Working remotely from Bangladesh 🇧🇩
-Available for collaboration and entry-level dev roles And Creative Writing roles
-
 
 $ cat current_mission.txt
 [◯] Mastering full-stack development
